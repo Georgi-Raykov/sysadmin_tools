@@ -1,6 +1,4 @@
  CPU & RAM Monitoring Scripts
-
- Описание
 Колекция от малки bash скриптчета за Linux системи:
 - cpu_ram_monitor.sh – мониторинг на топ 5 процеса по CPU и RAM
 - disk_alert.sh – проверка на дисково пространство и предупреждение
